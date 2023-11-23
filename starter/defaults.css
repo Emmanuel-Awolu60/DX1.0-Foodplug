@@ -1,7 +1,7 @@
 :root {
     /* --main-color: #a82d49; */
-    /* --main-color: rgb(0, 128, 0, 1); */
     --main-color: #a10e0e;
+    /* --main-color: rgb(0, 128, 0, 1); */
     /* --main-color-dark: #43121d; */
     /* --main-color-dark: #47ad47; */
     --main-color-dark: #a10e0e;
@@ -20,10 +20,6 @@
     0% {
         box-shadow: 0 0 0 0 #a10e0e, 0 0 0 0 #a10e0e;
     }
-
-    /* 0% {
-        box-shadow: 0 0 0 0 #a82d49, 0 0 0 0 #a82d49;
-    } */
     /* 0% {
         box-shadow: 0 0 0 0 green, 0 0 0 0 green;
     } */
