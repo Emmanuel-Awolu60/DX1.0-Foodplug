@@ -22,6 +22,11 @@ html {
     scroll-behavior: smooth;
 }
 
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
 .btn {
     padding: 15px 20px;
     color: #fff;
@@ -41,6 +46,7 @@ html {
 .btn-white {
     background: transparent;
     border: 2px solid var(--main-color);
+    color: var(--main-color);
 }
 
 /* Header section starts here */
